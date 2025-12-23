@@ -1,6 +1,6 @@
 -- ===== ADMIN AYARI =====
 local Admins = {
-    [123456789] = true -- BURAYA KENDİ USERID'İN
+    [itoshisaecikarma] = true -- BURAYA KENDİ USERID'İN
 }
 
 local Players = game:GetService("Players")
